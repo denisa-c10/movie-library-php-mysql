@@ -36,6 +36,42 @@ Technologies Used
   -	Bootstrap
   -	JavaScript
   -	WAMP (Apache server)
+Database
+The database structure required for this project is available in:
+/database/movie_library.sql
+Setup
+1.	Open phpMyAdmin
+2.	Create a new database
+3.	Import the SQL file from the /database folder
+4.	Update the database credentials in the connection file from /includes
+
+Screenshots
+Home Page
+![Home Page](screenshotsApp/HomePage.png)
+
+Movies Page
+![Movies Page](screenshotsApp/MoviesPage.png)
+
+Movie Details
+![Movie Page](screenshotsApp/MoviePage.png)
+
+Genres Page
+![Genres Page](screenshotsApp/GenresPage.png)
+
+Favorites Page
+![Favorites Page](screenshotsApp/FavoritesPage.png)
+
+Photo Gallery
+![Photo Gallery](screenshotsApp/PhotoGalleryPage.png)
+
+Contact Page
+![Contact Page](screenshotsApp/ContactPage.png)
+
+Sign In
+![Sign In](screenshotsApp/SignIn.png)
+
+Sign Up
+![Sign Up](screenshotsApp/SignUp.png)
 
 Setup Instructions
 1.	Clone/download the repository
